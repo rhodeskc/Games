@@ -3,6 +3,7 @@
 # Desired build
 
 ## Combat engineer build
+
 - [x] [R-63 Diligence] or
 - [ ] [SG225 Breaker]
 - [x] [P19 Redeemer]
