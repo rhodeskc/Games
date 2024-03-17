@@ -19,18 +19,18 @@ Depending on the situation:
 
 ### Robotics Workshop
 
-Dynamic Tracking 
-Shock absorption gel
-High quality lubricant
+1. Dynamic Tracking 
+2. Shock absorption gel
+3. High quality lubricant
 
 ### Patriotic Administration Center
 
-Donation access License
-Streamlined request process
+1. Donation access License
+2. Streamlined request process
 
 ### Engineering bay
 
-Synthetic Supplementation
+1. Synthetic Supplementation
 
 > [!Origin]- LegacyGaming
 > From [LegacyGaming]:
@@ -38,12 +38,12 @@ Synthetic Supplementation
 >
 > ![[Helldivers2_CombatEngineerBuild2.png]]
 
+[A/G-16 Gatling Sentry]: https://helldivers.fandom.com/wiki/A/G-16_Gatling_Sentry
+[A/M-12 Mortar Sentry]: https://helldivers.fandom.com/wiki/A/M-12_Mortar_Sentry
+[B-1 Supply Pack (Resupply Pack)]: https://helldivers.fandom.com/wiki/Resupply_Pack
 [LegacyGaming]: https://www.youtube.com/watch?v=m6j8s-6Cymw&ab_channel=LegacyGaming
-[Strategems]: https://helldivers.fandom.com/wiki/Stratagems_(Helldivers_2)
 [P19 Redeemer]: https://helldivers-ii.fandom.com/wiki/P-19_Redeemer
 [R-63 Diligence]: https://helldivers-ii.fandom.com/wiki/R-63_Diligence
-[SG-225 Breaker]: https://helldivers.fandom.com/wiki/SG-225_Breaker
 [RL-112 Recoilless Rifle]: https://helldivers.fandom.com/wiki/RL-112_Recoilless_Rifle
-[B-1 Supply Pack (Resupply Pack)]: https://helldivers.fandom.com/wiki/Resupply_Pack
-[A/M-12 Mortar Sentry]: https://helldivers.fandom.com/wiki/A/M-12_Mortar_Sentry
-[A/G-16 Gatling Sentry]: https://helldivers.fandom.com/wiki/A/G-16_Gatling_Sentry
+[SG-225 Breaker]: https://helldivers.fandom.com/wiki/SG-225_Breaker
+[Strategems]: https://helldivers.fandom.com/wiki/Stratagems_(Helldivers_2)
