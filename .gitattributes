@@ -1,0 +1,15 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+# Text files
+*.md text eol=lf
+*.ps1 text eol=crlf
+*.json text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+
+# 3D print files
+*.3mf binary
+*.stl binary

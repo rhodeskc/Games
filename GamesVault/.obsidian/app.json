@@ -1,0 +1,26 @@
+{
+  "obsidianCss": true,
+  "foldHeading": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "newFileLocation": "current",
+  "legacyEditor": false,
+  "livePreview": true,
+  "readableLineLength": false,
+  "showIndentGuide": false,
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "userIgnoreFilters": [
+    "x_IgnoredBySearch/"
+  ],
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false,
+  "propertiesInDocument": "hidden",
+  "trashOption": "local"
+}

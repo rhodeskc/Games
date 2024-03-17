@@ -1,0 +1,357 @@
+{
+  "_MOC TODO": {
+    "main": {
+      "id": "0211cbd538f84882",
+      "type": "split",
+      "children": [
+        {
+          "id": "cbfa8a1427f27d5f",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "fac6921ab3d4eea8",
+              "type": "leaf",
+              "state": {
+                "type": "markdown",
+                "state": {
+                  "file": "_WeeklyNotes/All TODO tasks.md",
+                  "mode": "source",
+                  "source": false
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "direction": "vertical"
+    },
+    "left": {
+      "id": "27dcb5c45cd782dc",
+      "type": "split",
+      "children": [
+        {
+          "id": "dd2f0c0c3ca1f2ec",
+          "type": "tabs",
+          "dimension": 67.56529064869419,
+          "children": [
+            {
+              "id": "ab9fba5e4676537d",
+              "type": "leaf",
+              "state": {
+                "type": "file-explorer",
+                "state": {
+                  "sortOrder": "alphabetical"
+                }
+              }
+            },
+            {
+              "id": "89b50dd824e33eee",
+              "type": "leaf",
+              "state": {
+                "type": "search",
+                "state": {
+                  "query": "",
+                  "matchingCase": false,
+                  "explainSearch": false,
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical"
+                }
+              }
+            },
+            {
+              "id": "d383c345323b18f6",
+              "type": "leaf",
+              "state": {
+                "type": "starred",
+                "state": {}
+              }
+            }
+          ]
+        },
+        {
+          "id": "d85d5c1242a661d0",
+          "type": "tabs",
+          "dimension": 32.43470935130581,
+          "children": [
+            {
+              "id": "60634ae1af3d7d04",
+              "type": "leaf",
+              "state": {
+                "type": "localgraph",
+                "state": {
+                  "file": "_WeeklyNotes/All TODO tasks.md",
+                  "options": {
+                    "collapse-filter": true,
+                    "search": "-path:Archive",
+                    "localJumps": 1,
+                    "localBacklinks": true,
+                    "localForelinks": true,
+                    "localInterlinks": false,
+                    "showTags": false,
+                    "showAttachments": false,
+                    "hideUnresolved": false,
+                    "collapse-color-groups": true,
+                    "colorGroups": [],
+                    "collapse-display": true,
+                    "showArrow": true,
+                    "textFadeMultiplier": 0,
+                    "nodeSizeMultiplier": 1,
+                    "lineSizeMultiplier": 1,
+                    "collapse-forces": false,
+                    "centerStrength": 0.897435897435898,
+                    "repelStrength": 17.7777777777778,
+                    "linkStrength": 1,
+                    "linkDistance": 102,
+                    "scale": 1.0000000000000004,
+                    "close": true
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "direction": "horizontal",
+      "width": 449
+    },
+    "right": {
+      "id": "29ad0ec6fa804434",
+      "type": "split",
+      "children": [
+        {
+          "id": "171f20d04bb9f90f",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "f252f117365d140f",
+              "type": "leaf",
+              "state": {
+                "type": "calendar",
+                "state": {}
+              }
+            },
+            {
+              "id": "8d745ba977c7c96e",
+              "type": "leaf",
+              "state": {
+                "type": "backlink",
+                "state": {
+                  "file": "_WeeklyNotes/All TODO tasks.md",
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              }
+            },
+            {
+              "id": "ecbab565acfd1630",
+              "type": "leaf",
+              "state": {
+                "type": "advanced-tables-toolbar",
+                "state": {}
+              }
+            }
+          ],
+          "currentTab": 2
+        }
+      ],
+      "direction": "horizontal",
+      "width": 300,
+      "collapsed": true
+    },
+    "ribbon": {
+      "mostRecentAction": ""
+    },
+    "active": "fac6921ab3d4eea8"
+  },
+  "Anime": {
+    "main": {
+      "id": "0211cbd538f84882",
+      "type": "split",
+      "children": [
+        {
+          "id": "81f2201da4c4acd5",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "fac6921ab3d4eea8",
+              "type": "leaf",
+              "state": {
+                "type": "markdown",
+                "state": {
+                  "file": "Spaces/Anime/Anime to watch.md",
+                  "mode": "preview",
+                  "source": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "0088665b65032fec",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "6305c121225db849",
+              "type": "leaf",
+              "state": {
+                "type": "markdown",
+                "state": {
+                  "file": "Spaces/Anime/2022-12 December.md",
+                  "mode": "preview",
+                  "source": false
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "direction": "vertical"
+    },
+    "left": {
+      "id": "27dcb5c45cd782dc",
+      "type": "split",
+      "children": [
+        {
+          "id": "dd2f0c0c3ca1f2ec",
+          "type": "tabs",
+          "dimension": 67.56529064869419,
+          "children": [
+            {
+              "id": "ab9fba5e4676537d",
+              "type": "leaf",
+              "state": {
+                "type": "file-explorer",
+                "state": {
+                  "sortOrder": "alphabetical"
+                }
+              }
+            },
+            {
+              "id": "89b50dd824e33eee",
+              "type": "leaf",
+              "state": {
+                "type": "search",
+                "state": {
+                  "query": "",
+                  "matchingCase": false,
+                  "explainSearch": false,
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical"
+                }
+              }
+            },
+            {
+              "id": "d383c345323b18f6",
+              "type": "leaf",
+              "state": {
+                "type": "starred",
+                "state": {}
+              }
+            }
+          ]
+        },
+        {
+          "id": "d85d5c1242a661d0",
+          "type": "tabs",
+          "dimension": 32.43470935130581,
+          "children": [
+            {
+              "id": "60634ae1af3d7d04",
+              "type": "leaf",
+              "state": {
+                "type": "localgraph",
+                "state": {
+                  "file": "Spaces/Anime/2022-12 December.md",
+                  "options": {
+                    "collapse-filter": true,
+                    "search": "-path:Archive",
+                    "localJumps": 1,
+                    "localBacklinks": true,
+                    "localForelinks": true,
+                    "localInterlinks": false,
+                    "showTags": false,
+                    "showAttachments": false,
+                    "hideUnresolved": false,
+                    "collapse-color-groups": true,
+                    "colorGroups": [],
+                    "collapse-display": true,
+                    "showArrow": true,
+                    "textFadeMultiplier": 0,
+                    "nodeSizeMultiplier": 1,
+                    "lineSizeMultiplier": 1,
+                    "collapse-forces": false,
+                    "centerStrength": 0.897435897435898,
+                    "repelStrength": 17.7777777777778,
+                    "linkStrength": 1,
+                    "linkDistance": 102,
+                    "scale": 1.0000000000000004,
+                    "close": true
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "direction": "horizontal",
+      "width": 449
+    },
+    "right": {
+      "id": "29ad0ec6fa804434",
+      "type": "split",
+      "children": [
+        {
+          "id": "171f20d04bb9f90f",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "f252f117365d140f",
+              "type": "leaf",
+              "state": {
+                "type": "calendar",
+                "state": {}
+              }
+            },
+            {
+              "id": "8d745ba977c7c96e",
+              "type": "leaf",
+              "state": {
+                "type": "backlink",
+                "state": {
+                  "file": "Spaces/Anime/2022-12 December.md",
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              }
+            },
+            {
+              "id": "ecbab565acfd1630",
+              "type": "leaf",
+              "state": {
+                "type": "advanced-tables-toolbar",
+                "state": {}
+              }
+            }
+          ],
+          "currentTab": 2
+        }
+      ],
+      "direction": "horizontal",
+      "width": 300,
+      "collapsed": true
+    },
+    "active": "6305c121225db849"
+  }
+}

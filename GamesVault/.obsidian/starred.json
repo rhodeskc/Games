@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "All TODO tasks",
+      "path": "_WeeklyNotes/All TODO tasks.md"
+    },
+    {
+      "type": "file",
+      "title": "Things when I first go to the place",
+      "path": "Home/819 NE 180th/Things when I first go to the place.md"
+    },
+    {
+      "type": "file",
+      "title": "Tern GSD S10 LX- TXLVA000",
+      "path": "Hobbies/Bicycling/Tern GSD/Tern GSD S10 LX- TXLVA000.md"
+    },
+    {
+      "type": "file",
+      "title": "Account information",
+      "path": "Home/819 NE 180th/Account information.md"
+    },
+    {
+      "type": "file",
+      "title": "_Tools and Websites homepage",
+      "path": "Websites and tools/_MOC Tools and Websites.md"
+    },
+    {
+      "type": "file",
+      "title": "Anime to watch",
+      "path": "Spaces/Anime/Anime to watch.md"
+    }
+  ]
+}

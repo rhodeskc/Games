@@ -1,0 +1,44 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "table-editor-obsidian:format-table",
+      "icon": "align-center",
+      "name": "Advanced Tables: Format table at the cursor",
+      "mode": "any"
+    },
+    {
+      "id": "markdown-table-editor:markdown-table-editor-open-vertical",
+      "icon": "hammer",
+      "name": "Markdown Table Editor: Open Editor (Next to the Active View)",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [
+      "janitor"
+    ],
+    "leftRibbon": []
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

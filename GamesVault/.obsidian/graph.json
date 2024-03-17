@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "-path:Template -path:Archive -path:\"_Daily Notes\" ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Home",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Dogs",
+      "color": {
+        "a": 1,
+        "rgb": 5415904
+      }
+    },
+    {
+      "query": "path:Hobbies",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Travel",
+      "color": {
+        "a": 1,
+        "rgb": 13511642
+      }
+    },
+    {
+      "query": "path:\"Websites and tools\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:COVID",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.3,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.00842696629213,
+  "collapse-forces": false,
+  "centerStrength": 0.847058823529412,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.35815611994527324,
+  "close": true
+}
