@@ -1,6 +1,7 @@
 Relevant links: [Strategems]
 
 # Desired build
+
 - R-63 Diligence
 - SG225 Breaker
 - P19 Redeemer
@@ -11,16 +12,20 @@ Relevant links: [Strategems]
 - Shield generator Relay (Terminoids)
 
 ## Ship upgrades
+
 ### Robotics Workshop
+
 Dynamic Tracking 
 Shock absorption gel
 High quality lubricant
 
 ### Patriotic Administration Center
+
 Donation access License
 Streamlined request process
 
 ### Engineering bay
+
 Synthetic Supplementation
 
 > [!Origin]- LegacyGaming
