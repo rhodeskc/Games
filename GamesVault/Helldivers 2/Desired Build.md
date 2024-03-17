@@ -1,13 +1,17 @@
-Relevant links: [Strategems]
+**Relevant links:** [Strategems]
 
 # Desired build
 
+## Combat engineer build
 - R-63 Diligence
 - SG225 Breaker
 - P19 Redeemer
 - Recoilless Rifle
 - Supply Pack
 - Mortar sentry
+
+Depending on the situation:
+
 - Gatling Sentry (Bugs)
 - Shield generator Relay (Terminoids)
 
