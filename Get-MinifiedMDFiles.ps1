@@ -109,20 +109,20 @@ function Compress-UpLineToTop($FullName) {
 }
 
 function Compress-PreviousNextLinks($FullName) {
-	$PreviousLineMatch = Select-String -Path $FullName -Pattern "\**Previous:\** *$"
-	$NextLineMatch = Select-String -Path $FullName -Pattern "\**Next:\** *$"
-	
-	if( $PreviousLineMatch -Or $NextLineMatch ) {
-		$FileContents = Get-Content $FullName
-		$NewFileContents = 1..($FileContents.Count) | 
-			?{ $_ -ne $PreviousLineMatch.LineNumber -and 
-				$_ -ne $NextLineMatch.LineNumber } | 
-			%{ $_ - 1 } |
-			%{ $FileContents[$_] }
-		
-		Start-Sleep -m $WaitTime
+    $PreviousLineMatch = Select-String -Path $FullName -Pattern "\**Previous:\** *$"
+    $NextLineMatch = Select-String -Path $FullName -Pattern "\**Next:\** *$"
+    
+    if( $PreviousLineMatch -Or $NextLineMatch ) {
+        $FileContents = Get-Content $FullName
+        $NewFileContents = 1..($FileContents.Count) | 
+            ?{ $_ -ne $PreviousLineMatch.LineNumber -and 
+                $_ -ne $NextLineMatch.LineNumber } | 
+            %{ $_ - 1 } |
+            %{ $FileContents[$_] }
+        
+        Start-Sleep -m $WaitTime
         $NewFileContents | Set-Content -Path $FullName -Force
-	}
+    }
 }
 
 function Set-EOLtoUnix($FullName) {
@@ -135,7 +135,7 @@ function Set-EOLtoUnix($FullName) {
 $FileList | %{
     Remove-ExcessLFs -FullName $_.FullName
     Compress-UpLineToTop -FullName $_.FullName
-	Compress-PreviousNextLinks -FullName $_.FullName
+    Compress-PreviousNextLinks -FullName $_.FullName
     Correct-HeaderFormatting -FullName $_.FullName
     Set-EOLtoUnix -FullName $_.FullName
 }
