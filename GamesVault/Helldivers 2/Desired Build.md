@@ -18,20 +18,18 @@ Depending on the situation:
 
 ## Ship upgrades
 
+### Patriotic Administration Center
+
+1. Donation access License
+2. Streamlined request process
+### Engineering bay
+
+1. Synthetic Supplementation
 ### Robotics Workshop
 
 1. Dynamic Tracking 
 2. Shock absorption gel
 3. High quality lubricant
-
-### Patriotic Administration Center
-
-1. Donation access License
-2. Streamlined request process
-
-### Engineering bay
-
-1. Synthetic Supplementation
 
 > [!Origin]- LegacyGaming
 > From [LegacyGaming]:
@@ -46,5 +44,5 @@ Depending on the situation:
 [P19 Redeemer]: https://helldivers-ii.fandom.com/wiki/P-19_Redeemer
 [R-63 Diligence]: https://helldivers-ii.fandom.com/wiki/R-63_Diligence
 [RL-112 Recoilless Rifle]: https://helldivers.fandom.com/wiki/RL-112_Recoilless_Rifle
-[SG-225 Breaker]: https://helldivers.fandom.com/wiki/SG-225_Breaker
+[SG225 Breaker]: https://helldivers.fandom.com/wiki/SG-225_Breaker
 [Strategems]: https://helldivers.fandom.com/wiki/Stratagems_(Helldivers_2)
