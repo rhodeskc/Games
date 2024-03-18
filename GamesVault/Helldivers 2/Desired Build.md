@@ -21,17 +21,17 @@ Depending on the situation:
 ### Patriotic Administration Center
 
 1. Donation access License
-2. Streamlined request process
+2. Streamlined request process - 80C / *40R*
 
 ### Engineering bay
 
-1. Synthetic Supplementation
+1. Synthetic Supplementation - 60C / *10R*
 
 ### Robotics Workshop
 
-1. Dynamic Tracking 
-2. Shock absorption gel
-3. High quality lubricant
+1. Dynamic Tracking 60C / *20R*
+2. Shock absorption gel 80C / *40R* / **5S**
+3. High quality lubricant 80C / *80R* / **10S**
 
 > [!Origin]- LegacyGaming
 > From [LegacyGaming]:
