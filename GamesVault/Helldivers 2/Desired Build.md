@@ -9,6 +9,7 @@
 - [x] [P19 Redeemer]
 - [x] [RL-112 Recoilless Rifle]
 - [ ] [APW-1 Anti-Materiel Rifle]
+- [ ] [Expendable Anti Tank Rifle]
 - [x] [B-1 Supply Pack (Resupply Pack)]
 - [ ] [A/M-12 Mortar Sentry]
 
@@ -50,3 +51,4 @@ Depending on the situation:
 [RL-112 Recoilless Rifle]: https://helldivers.fandom.com/wiki/RL-112_Recoilless_Rifle
 [SG225 Breaker]: https://helldivers.fandom.com/wiki/SG-225_Breaker
 [Strategems]: https://helldivers.fandom.com/wiki/Stratagems_(Helldivers_2)
+[Expendable Anti Tank Rifle]: https://helldivers.fandom.com/wiki/EAT-17
