@@ -7,7 +7,7 @@
 - [x] [R-63 Diligence] or
 - [ ] [SG225 Breaker]
 - [x] [P19 Redeemer]
-- [ ] [RL-112 Recoilless Rifle]
+- [x] [RL-112 Recoilless Rifle]
 - [x] [B-1 Supply Pack (Resupply Pack)]
 - [ ] [A/M-12 Mortar Sentry]
 
