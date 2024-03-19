@@ -8,6 +8,7 @@
 - [ ] [SG225 Breaker]
 - [x] [P19 Redeemer]
 - [x] [RL-112 Recoilless Rifle]
+- [ ] [APW-1 Anti-Materiel Rifle]
 - [x] [B-1 Supply Pack (Resupply Pack)]
 - [ ] [A/M-12 Mortar Sentry]
 
@@ -20,7 +21,7 @@ Depending on the situation:
 
 ### Patriotic Administration Center
 
-1. Donation access License
+1. ~~Donation access license~~
 2. Streamlined request process - 80C / *40R*
 
 ### Engineering bay
@@ -41,6 +42,7 @@ Depending on the situation:
 
 [A/G-16 Gatling Sentry]: https://helldivers.fandom.com/wiki/A/G-16_Gatling_Sentry
 [A/M-12 Mortar Sentry]: https://helldivers.fandom.com/wiki/A/M-12_Mortar_Sentry
+[APW-1 Anti-Materiel Rifle]: https://helldivers.fandom.com/wiki/APW-1_Anti-Materiel_Rifle
 [B-1 Supply Pack (Resupply Pack)]: https://helldivers.fandom.com/wiki/Resupply_Pack
 [LegacyGaming]: https://www.youtube.com/watch?v=m6j8s-6Cymw&ab_channel=LegacyGaming
 [P19 Redeemer]: https://helldivers-ii.fandom.com/wiki/P-19_Redeemer
