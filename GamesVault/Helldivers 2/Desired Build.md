@@ -5,13 +5,13 @@
 ## Combat engineer build
 
 - [x] [R-63 Diligence] or
-- [ ] [SG225 Breaker]
+- [x] [SG225 Breaker]
 - [x] [P19 Redeemer]
 - [x] [RL-112 Recoilless Rifle]
 - [ ] [APW-1 Anti-Materiel Rifle]
 - [x] [EAT-17 Expendable Anti Tank Rifle]
 - [x] [B-1 Supply Pack (Resupply Pack)]
-- [ ] [A/M-12 Mortar Sentry]
+- [x] [A/M-12 Mortar Sentry]
 
 Depending on the situation:
 
@@ -23,7 +23,7 @@ Depending on the situation:
 ### Patriotic Administration Center
 
 1. ~~Donation access license~~
-2. Streamlined request process - 80C / *40R*
+2. ~~Streamlined request process - 80C / *40R*~~
 
 ### Engineering bay
 
@@ -31,7 +31,7 @@ Depending on the situation:
 
 ### Robotics Workshop
 
-1. Dynamic Tracking 60C / *20R*
+1. ~~Dynamic Tracking 60C / *20R*~~
 2. Shock absorption gel 80C / *40R* / **5S**
 3. High quality lubricant 80C / *80R* / **10S**
 
