@@ -16,7 +16,7 @@
 Depending on the situation:
 
 - [x] [A/G-16 Gatling Sentry] (Bugs)
-- [ ] FX-12 Shield Generator Relay (Terminoids)
+- [x] FX-12 Shield Generator Relay (Terminoids)
 
 ## Ship upgrades
 
