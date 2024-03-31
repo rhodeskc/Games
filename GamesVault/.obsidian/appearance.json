@@ -2,6 +2,6 @@
   "baseFontSize": 16,
   "baseFontSizeAction": false,
   "theme": "obsidian",
-  "cssTheme": "Things",
-  "accentColor": ""
+  "cssTheme": "Dracula Official",
+  "accentColor": "#ce5a5a"
 }
