@@ -27,7 +27,7 @@ Depending on the situation:
 
 ### Engineering bay
 
-1. ~~Synthetic Supplementation~~ - 60C / *10R*
+1. ~~Synthetic Supplementation - 60C / *10R*~~
 
 ### Robotics Workshop
 
