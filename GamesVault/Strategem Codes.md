@@ -4,5 +4,4 @@
 
 Additions:
 
-
 ![[Strategem Codes.png]]
