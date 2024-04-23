@@ -8,7 +8,7 @@
 - [x] [SG225 Breaker]
 - [x] [P19 Redeemer]
 - [x] [RL-112 Recoilless Rifle]
-- [ ] [APW-1 Anti-Materiel Rifle]
+- [x] [APW-1 Anti-Materiel Rifle]
 - [x] [EAT-17 Expendable Anti Tank Rifle]
 - [x] [B-1 Supply Pack (Resupply Pack)]
 - [x] [A/M-12 Mortar Sentry]
@@ -27,7 +27,7 @@ Depending on the situation:
 
 ### Engineering bay
 
-1. ~~Synthetic Supplementation~~ - 60C / *10R*
+1. ~~Synthetic Supplementation - 60C / *10R*~~
 
 ### Robotics Workshop
 
