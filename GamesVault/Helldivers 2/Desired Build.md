@@ -24,16 +24,34 @@ Depending on the situation:
 
 1. ~~Donation access license~~
 2. ~~Streamlined request process - 80C / *40R*~~
+3. Hand Carts 80 / *60* / **5**
+
+### Orbital Cannons
+
+1. Zero-G breech loading 80 / *80* / **10**
+
+### Hangar 
+
+1. Expanded weapons Bay 80 / *80* / **10** ==This next==
 
 ### Engineering bay
 
 1. ~~Synthetic Supplementation - 60C / *10R*~~
 
+### Bridge
+
+1. Power Steering 80 / *80* / **10**
+
+### Engineering
+
+1. Advanced Construction 80 / *60* / **5**
+
 ### Robotics Workshop
 
 1. ~~Dynamic Tracking 60C / *20R*~~
-2. Shock absorption gel 80C / *40R* / **5S**
-3. High quality lubricant 80C / *80R* / **10S**
+2. ~~Shock absorption gel 80C / *40R* / **5S**~~
+3. ~~High quality lubricant 80C / *80R* / **10S**~~
+4. Blast Absorption 150 / *150* / **20** / ==25,000R==
 
 > [!Origin]- LegacyGaming
 > From [LegacyGaming]:

@@ -5,3 +5,5 @@
 Additions:
 
 ![[Strategem Codes.png]]
+
+![[Reinforcement.png]]
