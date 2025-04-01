@@ -16,5 +16,7 @@ Additions:
 
 ![[Anti-Tank Emplacement.png]]
 
+![[Grenadier Battlement.png]]
+
 ![[Reinforcement.png]]
 
