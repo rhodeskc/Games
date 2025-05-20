@@ -1,4 +1,4 @@
 # Logi routes
 
-[[1_OilRun]]
-[[2_MakingMSups]]
+- [[1_PetrolRun|Petrol Run]]
+- [[2_MakingMSups|Making MSups]]
