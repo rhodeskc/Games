@@ -8,4 +8,10 @@
 
 ## Logi route
 
-![[1_OilRun_Route.png]]
+Turn left just after you reach the beach, after the rock and the big tree.
+
+![[1_OilRunRoute_2.jpg]]
+
+> [!info]- Logi route (old)
+>
+> ![[1_OilRun_Route.png]]
