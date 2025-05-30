@@ -20,3 +20,4 @@ Additions:
 
 ![[Reinforcement.png]]
 
+![[EmancipatorExosuit.png]]
