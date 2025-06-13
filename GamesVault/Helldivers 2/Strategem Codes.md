@@ -18,5 +18,14 @@ Additions:
 
 ![[Grenadier Battlement.png]]
 
+![[OneTrueFlag.png]]
+
+![[De-escalator.png]]
+
+![[Sterilizer.png]]
+
+![[Guard Dog Breath.png]]
+
 ![[Reinforcement.png]]
 
+![[EmancipatorExosuit.png]]
