@@ -2,6 +2,7 @@
   "daysToSuppressNewUpdates": 3,
   "dismissedVersionsByPluginId": {},
   "showIconOnMobile": false,
+  "showNotificationOnNewUpdate": false,
   "excludeBetaVersions": true,
   "excludeDisabledPlugins": true,
   "minUpdateCountToShowIcon": 0,
