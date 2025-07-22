@@ -26,6 +26,19 @@ Additions:
 
 ![[Guard Dog Breath.png]]
 
+![[GuardDog_K9_Arc.png]]
+
+![[Warp Pack.png]]
+
+![[Epoch.png]]
+
+
+
+
+
+
+
+
 ![[Reinforcement.png]]
 
 ![[EmancipatorExosuit.png]]
