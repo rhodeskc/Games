@@ -8,19 +8,19 @@ Additions:
 
 ![[Commando.png]]
 
-![[FlameSentry.png]]
+![[Expendable Napalm.png]]
 
 ![[WASP Launcher.png]]
+
+![[FlameSentry.png]]
+
+![[LaserSentry.png]]
 
 ![[DirectionalShield_FastRecon.png]]
 
 ![[Anti-Tank Emplacement.png]]
 
 ![[Grenadier Battlement.png]]
-
-![[OneTrueFlag.png]]
-
-![[De-escalator.png]]
 
 ![[Sterilizer.png]]
 
@@ -30,11 +30,11 @@ Additions:
 
 ![[Warp Pack.png]]
 
+![[De-escalator.png]]
+
 ![[Epoch.png]]
 
-
-
-
+![[OneTrueFlag.png]]
 
 
 
