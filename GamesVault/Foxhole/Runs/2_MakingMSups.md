@@ -1,7 +1,5 @@
 # Making MSups
 
-
-
 -- TBD --
 
 ## Power on the crane
@@ -25,6 +23,7 @@
 > ![[2_MakingMSups_Instructions1.png]]
 
 ## Logi steps #2 Explosives
+
 ### Logi route
 
 - Flatbed + **Resource container.**
@@ -36,6 +35,7 @@
 > ![[2_MakingMSups_ExplosivesScrap.png]]
 
 ### Steps
+
 1. Use the train like [[#Logi steps 1 MSups]]
 2. Go to Ammo factory large shell factory
 3. w/ the explosive powders, submit all to stockpile
