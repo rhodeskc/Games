@@ -6,9 +6,17 @@ Additions:
 
 ![[Strategem Codes.png]]
 
+![[Airburst Launcher.png]]
+
 ![[Commando.png]]
 
+![[De-escalator.png]]
+
+![[Epoch.png]]
+
 ![[Expendable Napalm.png]]
+
+![[Sterilizer.png]]
 
 ![[WASP Launcher.png]]
 
@@ -22,17 +30,11 @@ Additions:
 
 ![[Grenadier Battlement.png]]
 
-![[Sterilizer.png]]
-
 ![[Guard Dog Breath.png]]
 
 ![[GuardDog_K9_Arc.png]]
 
 ![[Warp Pack.png]]
-
-![[De-escalator.png]]
-
-![[Epoch.png]]
 
 ![[OneTrueFlag.png]]
 
