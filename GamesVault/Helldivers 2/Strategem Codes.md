@@ -38,6 +38,8 @@ Additions:
 
 ![[OneTrueFlag.png]]
 
+![[Solo Silo.png]]
+
 
 
 
